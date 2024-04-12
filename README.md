@@ -51,10 +51,10 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 ## Chapter 1 - Introduction to React & Setup
 
   
-- **Assignment 1** : If we delete `node_modules`. How to run our app again successfully ?
+- **Assignment 1** : If we delete `node_modules`. How to run our app again successfully ?==>npm  i
 
 
-- **Assignment 2** : How to remove double `console.logs` from React ? [ it is not needed in real life to remove them, its just an assignment problem ].  [ *Hint: Some special Component at top level is of App is causing it* ]. We explore more about  - why this is needed in later videos.
+- **Assignment 2** : How to remove double `console.logs` from React ? [ it is not needed in real life to remove them, its just an assignment problem ].  [ *Hint: Some special Component at top level is of App is causing it* ]. We explore more about  - why this is needed in later videos. it is the feature of useeffect
 
 ### Special Assignments ==============
 
