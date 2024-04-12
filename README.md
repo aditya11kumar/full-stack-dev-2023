@@ -58,9 +58,9 @@ Hi, This is course page of **CoderDost Youtube Channel** React JS 2023 Course [V
 
 ### Special Assignments ==============
 
-- **Assignment 3** : Create a Page with multiple React Apps. Both React Apps should be independent of each other.
+- **Assignment 3** : Create a Page with multiple React Apps. Both React Apps should be independent of each other.==>done
 
-- **Assignment 4** : Try to build a react app using other toolchains like `Vite`
+- **Assignment 4** : Try to build a react app using other toolchains like `Vite`==>done
 
 
 
